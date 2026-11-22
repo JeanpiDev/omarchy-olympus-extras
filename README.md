@@ -4,6 +4,10 @@ Optional companion to the [Olympus theme](https://github.com/JeanpiDev/omarchy-o
 
 Omarchy's *About* logo and screensaver art are global, and installing a theme never runs code. This repository holds a small `theme-set` hook that swaps in the Olympus temple while Olympus is the active theme, and puts your previous art back when you switch to any other theme (anything you edited meanwhile is left alone). The art itself ships with the theme in `extras/`.
 
+| About | Screensaver |
+|---|---|
+| ![About with the Olympus temple](preview/about.webp) | ![Screensaver drawing the temple and OLYMPUS](preview/screensaver.webp) |
+
 ## Install
 
 ```bash
