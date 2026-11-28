@@ -1,6 +1,6 @@
 # Olympus extras
 
-Optional companion to the [Olympus theme](https://github.com/JeanpiDev/omarchy-olympus-theme) for [Omarchy](https://omarchy.org).
+Optional companion to the [Olympus theme](https://github.com/Jxanpi/omarchy-olympus-theme) for [Omarchy](https://omarchy.org).
 
 Omarchy's *About* logo and screensaver art are global, and installing a theme never runs code. This repository holds a small `theme-set` hook that swaps in the Olympus temple while Olympus is the active theme, and puts your previous art back when you switch to any other theme (anything you edited meanwhile is left alone). The art itself ships with the theme in `extras/`.
 
@@ -11,8 +11,8 @@ Omarchy's *About* logo and screensaver art are global, and installing a theme ne
 ## Install
 
 ```bash
-omarchy theme install https://github.com/JeanpiDev/omarchy-olympus-theme
-git clone https://github.com/JeanpiDev/omarchy-olympus-extras ~/.local/src/omarchy-olympus-extras
+omarchy theme install https://github.com/Jxanpi/omarchy-olympus-theme
+git clone https://github.com/Jxanpi/omarchy-olympus-extras ~/.local/src/omarchy-olympus-extras
 bash ~/.local/src/omarchy-olympus-extras/install.sh
 ```
 
