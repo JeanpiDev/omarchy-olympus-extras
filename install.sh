@@ -8,7 +8,7 @@ THEME="$HOME/.config/omarchy/themes/olympus"
 
 if [[ ! -f $THEME/extras/about.txt ]]; then
   echo "Install the Olympus theme first:" >&2
-  echo "  omarchy theme install https://github.com/JeanpiDev/omarchy-olympus-theme" >&2
+  echo "  omarchy theme install https://github.com/Jxanpi/omarchy-olympus-theme" >&2
   exit 1
 fi
 
